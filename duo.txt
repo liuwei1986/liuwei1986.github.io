@@ -1,5 +1,5 @@
 { "storeHouse": [ 
 
-{"sourceName":"电视盒子集整理","sourceUrl":"https://chuanshuo.77blog.cn/dc.json"} 
+{"sourceName":"电视盒子集整理","sourceUrl":"https://liuwei1986.github.io/dc.json"} 
 
 ]}
