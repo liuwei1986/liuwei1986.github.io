@@ -4,7 +4,7 @@
         {
             "name": "初秋语•综合",
             "type": 0,
-            "url": "https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/list.txt",
+            "url": "https://liuwei1986.github.io/iptv6.txt",
             "playerType": 1,
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
