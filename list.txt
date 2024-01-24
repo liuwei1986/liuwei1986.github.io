@@ -2,7 +2,7 @@ CCTV,#genre#
 CCTV1,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226231/index.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 澳亚卫视,https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
-星空卫视,http://protv.fun/play/live.php?mac=00:1A:79:50:63:9E&stream=683118&extension=ts
+星空卫视,http://110.72.69.105:808/hls/60/index.m3u8
 翡翠台,https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
 星空电影台,http://50.7.238.114:8278/xingwei_movie/playlist.m3u8?tid=MBDB4578128345781283&ct=19225&tsum=f2041ec954c95b4a5fe29d7ccbfe5b60
 香港中文,http://210.210.155.37/uq2663/h/h157/index2.m3u8
